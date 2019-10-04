@@ -1,6 +1,7 @@
 # Team Rocket
 Project A-2
-GSU CSC 3210 Fall 2019 Group Project A2 Developing Soft and Parallel Programming Skills Using
+GSU CSC 3210 Fall 2019
+Developing Soft and Parallel Programming Skills Using
 Project Based Learning
 
 (1) Michael Roussell
